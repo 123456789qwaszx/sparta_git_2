@@ -9,7 +9,7 @@ namespace TextRPG_KangEonDeok
     internal class Program
     {
         public void Process()
-        {
+        { // dsad
             switch (mode)
             {
                 case GameMode.Lobby:
